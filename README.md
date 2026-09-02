@@ -1,3 +1,3 @@
-SQL Portfolio Projects
+Portfolio Projects
 
-These are completed projects using Microsoft SQL Server for the purpose of data cleaning and exploration for optimization when analyzing.
+These are completed projects using various tools such as Microsoft SQL Server, RStudio, etc for the purpose of data exploration for further analyzations.
